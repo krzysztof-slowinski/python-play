@@ -17,6 +17,6 @@ get_ipython().magic('matplotlib notebook')
 import matplotlib.pyplot as plt
 import numpy as np
 
-x = np.linspace(-10, 20)
+x = np.linspace(-20, 20)
 line = plt.plot(x, np.sin(x), '--', linewidth=2)
 
