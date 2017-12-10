@@ -1,5 +1,4 @@
 # Configuration file for jupyter-notebook.
-c = get_config()
 import os
 from subprocess import check_call
 
